@@ -1,0 +1,13 @@
+{
+  "name": "gumroad-profile-optimizer-ai",
+  "version": "1.0.0",
+  "description": "AI-powered Gumroad profile optimizer",
+  "private": true,
+  "dependencies": {
+    "@google/genai": "^1.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.24",
+    "typescript": "^5.3.3"
+  }
+}
